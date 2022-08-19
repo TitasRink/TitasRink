@@ -12,7 +12,4 @@ C# Javascript HTML5 CSS3 .NET
 Socials
 www.linkedin.com/in/titasrink
 
-Badges
-My GitHub Stats
 
-DaliusGrigolius's GitHub stats
