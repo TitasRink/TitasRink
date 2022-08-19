@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi 👋 My name is Titas Rinkevicius
 
-<!--
-**TitasRink/TitasRink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌍  I live in Klaipėda, Lithuania
+✉️  You can contact me at titas.rinkevicius@gmail.com
+🧠  I'm learning c#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills
+C# Javascript HTML5 CSS3 .NET
+
+Socials
+www.linkedin.com/in/titasrink
+
+Badges
+My GitHub Stats
+
+DaliusGrigolius's GitHub stats
