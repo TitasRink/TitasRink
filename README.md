@@ -2,7 +2,9 @@ Hi 👋 My name is Titas Rinkevicius
 
 
 🌍  I live in Klaipėda, Lithuania
+
 ✉️  You can contact me at titas.rinkevicius@gmail.com
+
 🧠  I'm learning c#
 
 
