@@ -13,3 +13,5 @@ Socials
 www.linkedin.com/in/titasrink
 
 
+![linkedin](https://user-images.githubusercontent.com/95306863/185614061-4c77a3bd-f416-4d65-a336-a036e75b4f9d.svg)
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
