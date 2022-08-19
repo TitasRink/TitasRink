@@ -3,13 +3,13 @@ Hi 👋 My name is Titas Rinkevicius
 
 🌍  I live in Klaipėda, Lithuania
 
+🧠  I'm learning c#
+
 ✉️  You can contact me at:
 
 titas.rinkevicius@gmail.com
 
 <a href="https://lt.linkedin.com/in/titasrink?trk=profile-badge" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;"></a>       
-
-🧠  I'm learning c#
 
 
 Skills
