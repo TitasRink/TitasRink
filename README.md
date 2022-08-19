@@ -14,4 +14,5 @@ www.linkedin.com/in/titasrink
 
 
 ![linkedin](https://user-images.githubusercontent.com/95306863/185614061-4c77a3bd-f416-4d65-a336-a036e75b4f9d.svg)
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="titasrink" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lt.linkedin.com/in/titasrink?trk=profile-badge">Titas Rinkevičius</a></div>
+              
